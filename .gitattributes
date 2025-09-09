@@ -1,5 +1,1 @@
-*.png filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
 dataset/ed/finals/tables_Sep/step1/tables/1_table_cleaned_dataset.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,19 @@
+,count,unique,top,freq
+intime,232895,187552,2139-07-05 18:37:00,6
+outtime,232895,187616,2182-05-08 17:44:00,6
+gender,232895,2,F,136433
+race,232895,33,WHITE,119649
+chiefcomplaint,232895,21820,Chest pain,11300
+anchor_year_group,232895,4,2008 - 2010,69621
+dod,44041,11153,2151-12-29,217
+race_standard,232895,8,White,131424
+age_group,232895,5,46-65,77961
+unique_visit_id,232895,187963,14051166_35211695,6
+terms,232895,20626,['abd pain'],17900
+terms_new,232895,20591,abd pain,17900
+indiv_symptom,232895,477,abd pain,35879
+unique_ids_exploded,232895,232468,31195432_1,3
+expanded_symptoms,232895,318,['abdominal pain'],38517
+expanded_symptoms_new,232895,134,abdominal pain,38663
+counter_new,232895,3,a,232377
+unique_ids_exploded_new,232895,232895,33258284_1_a,1

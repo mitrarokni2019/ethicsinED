@@ -1,0 +1,9 @@
+group,AUC,AUC_lo95,AUC_hi95,n,events
+White,0.814,0.808,0.82,131424,3590
+Black,0.832,0.817,0.846,53687,683
+Hispanic/Latino,0.837,0.809,0.864,21868,196
+Other/Unknown/Not Reported,0.894,0.88,0.909,14542,440
+Asian,0.843,0.819,0.865,10453,245
+American Indian/Alaska Native,0.787,0.438,0.999,546,4
+Native Hawaiian/Pacific Islander,0.897,0.837,0.946,285,15
+Multiple Races,,,,90,0

@@ -2,3 +2,12 @@ dataset/
 merged_data.csv
 
 .ipynb_checkpoints/
+
+# ignore oversized base table
+new_code/step1/tables/1_table_cleaned_dataset*
+
+# ignore oversized base table in step1
+new_code/step1/tables/1_table_cleaned_dataset*
+
+# ignore oversized base table in step1
+new_code/step1/tables/1_table_cleaned_dataset*
